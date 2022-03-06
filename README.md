@@ -17,4 +17,4 @@ set upstream
 
 1. Open
 2. another change
-3. delete branch
+3. delete branch -2
